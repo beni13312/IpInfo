@@ -1,0 +1,10 @@
+C:\Users\benja\Documents\Visual Studio 2022\Templates\project\Ip_extractor\Ip_extractor\bin\Debug\Ip_extractor.exe.config
+C:\Users\benja\Documents\Visual Studio 2022\Templates\project\Ip_extractor\Ip_extractor\bin\Debug\Ip_extractor.exe
+C:\Users\benja\Documents\Visual Studio 2022\Templates\project\Ip_extractor\Ip_extractor\bin\Debug\Ip_extractor.pdb
+C:\Users\benja\Documents\Visual Studio 2022\Templates\project\Ip_extractor\Ip_extractor\obj\Debug\Ip_extractor.csproj.AssemblyReference.cache
+C:\Users\benja\Documents\Visual Studio 2022\Templates\project\Ip_extractor\Ip_extractor\obj\Debug\Ip_extractor.csproj.CoreCompileInputs.cache
+C:\Users\benja\Documents\Visual Studio 2022\Templates\project\Ip_extractor\Ip_extractor\obj\Debug\Ip_extractor.exe
+C:\Users\benja\Documents\Visual Studio 2022\Templates\project\Ip_extractor\Ip_extractor\obj\Debug\Ip_extractor.pdb
+C:\Users\benja\Documents\Visual Studio 2022\Templates\project\Ip_extractor\Ip_extractor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\benja\Documents\Visual Studio 2022\Templates\project\Ip_extractor\Ip_extractor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\benja\Documents\Visual Studio 2022\Templates\project\Ip_extractor\Ip_extractor\obj\Debug\Ip_extractor.csproj.CopyComplete
