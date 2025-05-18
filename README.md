@@ -1,1 +1,1 @@
-Just a simple program wich is uses ipinfo api.
+Just a simple program wich uses ipinfo api.
